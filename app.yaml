@@ -30,5 +30,17 @@ handlers:
 - url: /asama3.php
   script: asama3.php
 
+- url: /asama4
+  script: asama4.php
+
+- url: /asama4.php
+  script: asama4.php
+
+- url: /asama5
+  script: asama5.php
+
+- url: /asama5.php
+  script: asama5.php
+
 - url: /.*
   script: others.php

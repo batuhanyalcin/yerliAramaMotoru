@@ -13,13 +13,12 @@ require_once("header.php");
 	<meta charset="UTF-8">
 
 
-	<h5>Yaz Lab 1 - Proje 3</h5>
-	<h1><b><i>Yerli Arama Motoru</i></b></h1>
-	<b><h3>150202065 Batuhan YALCIN , 150202102 Ahmet Tunay OZTURK</h3></b>
+	<h1>Asama 5 : Google Cloud a deploy edilmis bu PHP ile hazirlanmis bu projenin internette yayinlanmisa </h1>
+	<h4>Tamamlandi</h4>
 
 	
 
-<p> <a href="asama1.php">Asama 1 </a> <a href="asama2.php">Asama 2 </a> <a href="asama3.php">Asama 3</a> <a href="asama4">Asama 4</a> <a href="asama5">Asama 5</a>  </p>
+<p> <a href="asama1">Asama 1 </a> <a href="asama2">Asama 2 </a> <a href="asama3">Asama 3</a> <a href="asama4">Asama 4</a> </p>
 
 </div>
 </body>
