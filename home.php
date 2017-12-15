@@ -23,7 +23,7 @@ require_once("header.php");
 
 	
 
-<p> <a href="asama1.php">Asama 1 </a> <a href="asama2.php">Asama 2 </a> <a href="asama3.php">Asama 3</a> <a href="asama4">Asama 4</a> <a href="asama5">Asama 5</a>  </p>
+<p> <a href="asama1">Asama 1 </a> <a href="asama2">Asama 2 </a> <a href="asama3">Asama 3</a> <a href="asama4">Asama 4</a> <a href="asama5">Asama 5</a>  </p>
 
 </div>
 </body>

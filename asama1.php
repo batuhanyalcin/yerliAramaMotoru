@@ -51,7 +51,7 @@ if(isset($_POST['url'])){
 
 	<br /><br /><br />
 
-	<p> <a href="home.php">Home  </a> <a href="asama2.php">Asama 2  </a> <a href="asama3.php">Asama 3</a> <a href="asama4">Asama 4</a> <a href="asama5">Asama 5</a> </p>
+	<p> <a href="home">Home  </a> <a href="asama2">Asama 2  </a> <a href="asama3">Asama 3</a> <a href="asama4">Asama 4</a> <a href="asama5">Asama 5</a> </p>
 
 </div>
 </body>
