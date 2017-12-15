@@ -4,7 +4,10 @@ api_version: 1
 handlers:
 
 - url: /
-  script: asama1.php
+  script: home.php
+
+- url: /home
+  script: home.php
 
 - url: /asama1
   script: asama1.php
@@ -14,3 +17,15 @@ handlers:
 
 - url: /asama3
   script: asama3.php
+
+- url: /asama1.php
+  script: asama1.php
+
+- url: /asama2.php
+  script: asama2.php
+
+- url: /asama3.php
+  script: asama3.php
+
+- url: /.*
+  script: others.php
