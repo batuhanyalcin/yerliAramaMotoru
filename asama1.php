@@ -9,6 +9,7 @@ require_once("header.php");
 	<meta charset="UTF-8">
 </head>
 <body>
+	<div align="center"><!-- div for body  -->
 	<br /> <br /> <br />
 	<meta charset="UTF-8">
 	<div align="center"> 
@@ -49,7 +50,7 @@ if(isset($_POST['url'])){
 
 	<p> <a href="home.php">Home  </a> <a href="asama2.php">Asama 2  </a> <a href="asama3.php">Asama 3</a> </p>
 
-
+</div>
 </body>
 </html>
 <?php

@@ -9,6 +9,7 @@ require_once("header.php");
 	<meta charset="UTF-8">
 </head>
 <body>
+	<div align="center"><!-- div for body  -->
 	<?php
 	
 	$uppercase = false;
@@ -131,7 +132,7 @@ if(isset($_POST['urlkumesi'])){
 
 	<br /><br /><br />
 	<p> <a href="home.php">Home  </a> <a href="asama1.php">Asama 1  </a> <a href="asama3.php">Asama 3</a> </p>
-
+</div>
 </body>
 </html>
 <?php

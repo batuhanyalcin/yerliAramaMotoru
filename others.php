@@ -9,6 +9,7 @@ require_once("header.php");
 	<meta charset="UTF-8">
 </head>
 <body>
+	<div align="center"><!-- div for body  -->
 	<meta charset="UTF-8">
 
 
@@ -22,7 +23,7 @@ require_once("header.php");
 
 <p>There is ways to go but you need to be brave or crazy to go </p>
 
-
+</div>
 </body>
 </html>
 <?php
