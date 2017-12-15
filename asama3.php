@@ -110,7 +110,7 @@ if(isset($_POST['urlkumesi'])){
 
 
 	<form action="" method="post">
-	<input type="text" name="aranan" placeholder="Aranacak keyword" value="<?php if(isset($_POST['aranan'])) echo $_POST['aranan']; ?>" /> 
+	<input type="text" name="aranan" placeholder="Aranacak keyword" value="<?php if(isset($_POST['aranan'])) echo $_POST['aranan']; ?>" /> <br />
 	<textarea name="urlkumesi" id="" cols="30" rows="10" placeholder="URL Kümelerini sırasıyla entera basarak giriniz"><?php if(isset($_POST['urlkumesi'])) echo $_POST['urlkumesi']; ?></textarea> <br />
 	<input type="checkbox" <?php if($uppercase) echo "checked"; ?> name="uppercase" /> Küçük büyük dikkat edem mi ? <br/>
 	<input type="submit" value="Kaç tane var say" />
