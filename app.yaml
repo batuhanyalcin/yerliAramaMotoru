@@ -9,9 +9,6 @@ handlers:
 - url: /asama1
   script: asama1.php
 
-- url: /index\.html
-  script: asama1.php
-
 - url: /asama2
   script: asama2.php
 

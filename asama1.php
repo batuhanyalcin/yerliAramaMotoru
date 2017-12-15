@@ -40,9 +40,12 @@ if(isset($_POST['url'])){
 	
 }
 
-
-
 	?>
+
+	<a href="asama2.php"><p>Asama 2</p></a>
+	<a href="asama3.php"><p>Asama 3</p></a>
+
+
 </body>
 </html>
 <?php
