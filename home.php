@@ -10,8 +10,10 @@ require_once("header.php");
 </head>
 <body>
 
-	<h1>HOME</h1>
 	<div align="center"><!-- div for body  -->
+	
+	<h1>HOME</h1>
+
 	<meta charset="UTF-8">
 
 
