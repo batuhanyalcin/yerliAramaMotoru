@@ -10,6 +10,9 @@ require_once("header.php");
 </head>
 <body>
 	<div align="center"><!-- div for body  -->
+	
+	<h1>ASAMA 1</h1>
+
 	<br /> <br /> <br />
 	<meta charset="UTF-8">
 	<div align="center"> 

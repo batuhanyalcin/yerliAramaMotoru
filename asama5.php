@@ -12,8 +12,10 @@ require_once("header.php");
 	<div align="center"><!-- div for body  -->
 	<meta charset="UTF-8">
 
+	<h1>ASAMA 5</h1>
 
-	<h1>Asama 5 : Google Cloud a deploy edilmis bu PHP ile hazirlanmis bu projenin internette yayinlanmisa </h1>
+
+	<h1>Google Cloud a deploy edilmis PHP ile hazirlanmis bu projenin internette yayinlanmasi </h1>
 	<h4>Tamamlandi</h4>
 
 	

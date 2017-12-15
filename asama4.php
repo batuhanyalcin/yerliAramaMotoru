@@ -10,11 +10,14 @@ require_once("header.php");
 </head>
 <body>
 	<div align="center"><!-- div for body  -->
+
+		<h1>ASAMA 4</h1>
+
 	<meta charset="UTF-8">
 
 
-	<h1>Asama 4 : Semantik Analiz </h1>
-	<h4>Tamamlanmadi</h4>
+	<h1>Semantik Analiz </h1>
+	<h3>Tamamlanmadi</h3>
 
 	
 

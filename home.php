@@ -9,6 +9,8 @@ require_once("header.php");
 	<meta charset="UTF-8">
 </head>
 <body>
+
+	<h1>HOME</h1>
 	<div align="center"><!-- div for body  -->
 	<meta charset="UTF-8">
 
