@@ -10,6 +10,7 @@ require_once("header.php");
 </head>
 <body>
 	<div align="center"><!-- div for body  -->
+		<br /> <br /> <br />
 	<?php
 	
 	$uppercase = false;
