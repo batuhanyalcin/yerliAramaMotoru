@@ -13,10 +13,11 @@ require_once("header.php");
 
 
 	<h5>Yaz Lab 1 - Proje 3</h5>
-	<h1>Yerli Arama Motoru</h1>
+	<h1><b><i>Yerli Arama Motoru</i>></b></h1>
+	<b>
 	<h3>150202065 Batuhan YALCIN</h3>
 	<h3>150202102 Ahmet Tunay OZTURK</h3>
-
+	</b>
 
 	
 

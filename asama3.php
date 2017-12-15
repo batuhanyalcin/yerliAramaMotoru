@@ -129,8 +129,9 @@ if(isset($_POST['urlkumesi'])){
 	
 	?>
 
-<a href="asama2.php"><p>Asama 2</p></a>
-<a href="asama1.php"><p>Asama 1</p></a>
+	<br /><br /><br />
+	<p> <a href="home.php">Home  </a> <a href="asama1.php">Asama 1  </a> <a href="asama2.php">Asama 2</a> </p>
+
 
 </body>
 </html>

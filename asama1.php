@@ -9,13 +9,16 @@ require_once("header.php");
 	<meta charset="UTF-8">
 </head>
 <body>
+	<br /> <br /> <br />
 	<meta charset="UTF-8">
-	<form action="" method="post">
-	<input type="text" name="aranan" placeholder="Aranacak keyword" /> 
-	<input type="text" name="url" placeholder="Aranacak site" /> <br />
-	<input type="checkbox" name="uppercase" /> Küçük büyük dikkat edem mi ? <br />
-	<input type="submit" value="Kaç tane var SAY" />
-	</form>
+	<div align="center"> 
+		<form action="" method="post">
+			<input type="text" name="aranan" placeholder="Aranacak keyword" /> 
+			<input type="text" name="url" placeholder="Aranacak site" /> <br />
+			<input type="checkbox" name="uppercase" /> Küçük büyük dikkat edem mi ? <br />
+			<input type="submit" value="Kaç tane var SAY" />
+		</form>
+	</div>
 	<?php
 	
 if(isset($_POST['url'])){
@@ -42,8 +45,9 @@ if(isset($_POST['url'])){
 
 	?>
 
-	<a href="asama2.php"><p>Asama 2</p></a>
-	<a href="asama3.php"><p>Asama 3</p></a>
+	<br /><br /><br />
+
+	<p> <a href="home.php">Home  </a> <a href="asama2.php">Asama 2  </a> <a href="asama3.php">Asama 3</a> </p>
 
 
 </body>

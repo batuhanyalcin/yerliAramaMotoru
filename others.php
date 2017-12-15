@@ -17,7 +17,7 @@ require_once("header.php");
 
 
 
-	<h5>There is a <a href="home.php">home</a> you can always go. <br> Or other ways to go <a href="asama1.php">Asama 1</a> <a href="asama2.php">Asama 2</a> <a href="asama3.php">Asama 3</a> </h5>
+	<h3>There is a <a href="home.php">home</a> you can always go. <br> Or other ways to go <a href="asama1.php">Asama 1</a> <a href="asama2.php">Asama 2</a> <a href="asama3.php">Asama 3</a> </h3>
 
 
 <p>There is ways to go but you need to be brave or crazy to go </p>
