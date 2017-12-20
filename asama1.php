@@ -44,7 +44,7 @@ if(isset($_POST['url'])){
 	
 	echo $_POST['aranan']." sayfada <b>".substr_count($GetWebSite,$ArananNew)."</b> tane var. <br /><br />";
 
-	echo "GetWebSite : ".$GetWebSite."<br />";
+	//echo "GetWebSite : ".$GetWebSite."<br />";
 	//echo "ArananNew : ".$ArananNew."<br />";
 	
 	
