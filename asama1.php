@@ -41,7 +41,7 @@ if(isset($_POST['url'])){
 		$GetWebSite = mb_strtolower($GetWebSite);
 		$ArananNew = mb_strtolower($ArananNew);
 	}
-	//echo "GetWebSite : ".$GetWebSite."<br />";
+	echo "GetWebSite : ".$GetWebSite."<br />";
 	//echo "ArananNew : ".$ArananNew."<br />";
 	echo $_POST['aranan']." sayfada <b>".substr_count($GetWebSite,$ArananNew)."</b> tane var.";
 	
